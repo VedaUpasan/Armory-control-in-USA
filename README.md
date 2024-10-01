@@ -8,7 +8,9 @@ Crime and Incarceration data of United States of 50 states (2001 to 2016)
 
 ## Users Stories:
 General Person: There are many who are interesting in keeping guns or using for animal hunting or safety purpose. 
+
 Social Person: Gun owners consider their weapons to be tools that may be used for good or harm. This explains why many gun owners believe that legislation should center on "keeping weapons out of the wrong hands." 
+
 Government: Background checks on private gun transactions and restrictions on the sale of firearms to those who are mentally ill or on no-fly or watch lists are both widely supported by both gun owners and non-owners in both parties
 
 ## Developed an interactive Web-App:
