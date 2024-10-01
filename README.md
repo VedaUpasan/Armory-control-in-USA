@@ -14,4 +14,4 @@ Government: Background checks on private gun transactions and restrictions on th
 ## Developed an interactive Web-App:
 This application is developed to meet the goals of the users. It helps in looking at the laws for controlling weapons and learn about crime and incarceration in the US to address lawmakers about the legalization of firearms that cannot be made available to everyone.
  
-https://github.com/VedaUpasan/Armory-control-in-USA/blob/main/data/Webapp%20output.png
+![Webapp output](https://github.com/user-attachments/assets/2677c33b-5d4a-4759-95af-4fca8b462ca6)
